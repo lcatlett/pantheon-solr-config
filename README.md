@@ -1,0 +1,1 @@
+# pantheon-solr-config
